@@ -1,0 +1,19 @@
+{
+  "name": "santiment-monitor",
+  "version": "0.0.1",
+  "description": "Monitor addresses via web3 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Zweng <john@zweng.at> (https://johannes.zweng.at/)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "bignumber.js": "^4.0.2",
+    "web3": "^0.19.1"
+  }
+}
